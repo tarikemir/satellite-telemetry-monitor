@@ -15,13 +15,14 @@ cd satellite_telemetry
 python main.py
 ```
 ## Ekran Görüntüleri
-<img width="1395" height="923" alt="image" src="https://github.com/user-attachments/assets/fa730d21-9334-4867-9571-2277868563f0" />
 
-<img width="1388" height="921" alt="image" src="https://github.com/user-attachments/assets/09959615-2d2b-481b-809f-e6a2d70b4fd7" />
+<img width="1399" height="936" alt="image" src="https://github.com/user-attachments/assets/f2595384-f1c7-42eb-aef5-90e9a6ebf41e" />
+
+<img width="1397" height="926" alt="image" src="https://github.com/user-attachments/assets/3c62d673-011e-431e-9385-f7265c7d8058" />
 
 ## Mimari (genel görünüm)
 
-<img width="121" height="411" alt="satellite-architecture drawio" src="https://github.com/user-attachments/assets/6e3fbe5f-5197-43ec-9447-0b6e3ce69865" />
+<img width="121" height="411" alt="satellite-architecture drawio" src="https://github.com/user-attachments/assets/12574d6d-11aa-438a-829b-98c9a1e61251" />
 
 
 ## Modüller
